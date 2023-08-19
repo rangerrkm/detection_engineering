@@ -1,5 +1,5 @@
-[metadata]
-creation_date = "2023/07/11"
+#[metadata]
+#creation_date = "2023/07/11"
 
 [rule]
 author = ["Anthony Isherwood", "Troy Mitchell"]
