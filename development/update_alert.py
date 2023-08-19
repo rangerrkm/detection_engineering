@@ -3,7 +3,7 @@ import os
 import tomllib
 
 url = "https://b697f46fd0154e35936b554aa634df51.us-central1.gcp.cloud.es.io:9243/api/detection_engine/rules?rule_id="
-api_key = os.environ['ELASTIC_Key']
+api_key = os.environ['ELASTIC_KEY']
 
 headers = {
     'Content-Type': 'application/json;charset=UTF-8',
