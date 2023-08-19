@@ -21,7 +21,7 @@ id = "T1059"
 name = "Command and Scripting Interpreter"
 reference = "https://attack.mitre.org/techniques/T1059/"
 [[rule.threat.technique.subtechnique]]
-id = "T1059.001"
+id = "T1046"
 name = "PowerShell"
 reference = "https://attack.mitre.org/techniques/T1059/001/"
 
