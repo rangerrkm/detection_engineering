@@ -14,7 +14,7 @@ headers = {
 changed_files = os.environ["CHANGED_FILES"]
 
 data = ""
-for root, dirs, files in os.walk("C:\Scripts\Python\converted_detections\\trouble"):
+for root, dirs, files in os.walk("detections/"):
     for file in files:
         if file in changed_files:
             data = "{\n"
