@@ -4,6 +4,7 @@ import tomllib
 
 url = "https://b697f46fd0154e35936b554aa634df51.us-central1.gcp.cloud.es.io:9243/api/detection_engine/rules"
 api_key = os.environ['ELASTIC_Key']
+
 headers = {
     'Content-Type': 'application/json;charset=UTF-8',
     'kbn-xsrf': 'true',
