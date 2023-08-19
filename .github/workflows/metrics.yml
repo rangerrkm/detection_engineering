@@ -1,9 +1,6 @@
 name: Metrics
 
 on:
-  #push:
-  #  path:
-  #    - '**.toml'
   workflow_dispatch:
 
 jobs:
