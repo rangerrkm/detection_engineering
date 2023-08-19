@@ -8,7 +8,7 @@ import os
 
 failure = 0
 #for root, dirs, files in os.walk("C:\Scripts\Python\custom_alerts"):
-for root, dirs, files in os.walk("C:\Scripts\Python\converted_detections"):
+for root, dirs, files in os.walk("detections/"):
     for file in files:
         if file.endswith(".toml"):
             #print(file)
