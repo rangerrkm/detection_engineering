@@ -1,3 +1,6 @@
+[metadata]
+creation_date = "2023/07/11"
+
 [rule]
 author = ["Troy Mitchell"]
 description = "Detects Nmap and Nikto User Agent strings."
