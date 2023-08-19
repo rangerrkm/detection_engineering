@@ -1,5 +1,5 @@
 name: All Detections to Elastic
-
+# Version 1.0
 on:
   workflow_dispatch:
 
