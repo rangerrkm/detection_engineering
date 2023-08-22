@@ -4,6 +4,7 @@
 
 | Alert | Date | Author | Risk Score | Severity |
 | --- | --- | --- | --- | --- |
+|Data Exfiltration Observed via FTP|2023/08/11|['Troy Mitchell']|50|high|
 ## Last Month
 ### Alerts
 
@@ -11,7 +12,6 @@
 | --- | --- | --- | --- | --- |
 |Potential MSF PowerShell Payload Observed|2023/07/11|['Anthony Isherwood']|50|high|
 |Data Archive for Potential Exfil|2023/07/11|['Anthony Isherwood']|50|medium|
-|Data Exfiltration Observed via FTP|2023/07/11|['Troy Mitchell']|50|high|
 |New Alert 3|2023/07/11|['Anthony Isherwood'. 'Troy Mitchell']|100|medium|
 |New Alert 2|2023/07/11|['Anthony Isherwood'. 'Troy Mitchell']|100|medium|
 |PowerShell Execution via a BAT File|2023/07/11|['Anthony Isherwood']|50|medium|
