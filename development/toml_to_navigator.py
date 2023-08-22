@@ -91,7 +91,7 @@ total_techniques = 0
 for technique in techniques:
     total_techniques += 1
 
-output_path = "\metrics\\navigator.json"
+output_path = "/metrics/navigator.json"
 
 outF = open(output_path, "w")
 outF.write(beginning)
